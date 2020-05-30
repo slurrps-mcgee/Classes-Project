@@ -1,0 +1,13 @@
+D:\CIS 144\Projects\Project 2\DiverClass\DiverClass\bin\Debug\netcoreapp3.1\DiverClass.exe
+D:\CIS 144\Projects\Project 2\DiverClass\DiverClass\bin\Debug\netcoreapp3.1\DiverClass.deps.json
+D:\CIS 144\Projects\Project 2\DiverClass\DiverClass\bin\Debug\netcoreapp3.1\DiverClass.runtimeconfig.json
+D:\CIS 144\Projects\Project 2\DiverClass\DiverClass\bin\Debug\netcoreapp3.1\DiverClass.runtimeconfig.dev.json
+D:\CIS 144\Projects\Project 2\DiverClass\DiverClass\bin\Debug\netcoreapp3.1\DiverClass.dll
+D:\CIS 144\Projects\Project 2\DiverClass\DiverClass\bin\Debug\netcoreapp3.1\DiverClass.pdb
+D:\CIS 144\Projects\Project 2\DiverClass\DiverClass\obj\Debug\netcoreapp3.1\DiverClass.csprojAssemblyReference.cache
+D:\CIS 144\Projects\Project 2\DiverClass\DiverClass\obj\Debug\netcoreapp3.1\DiverClass.csproj.CoreCompileInputs.cache
+D:\CIS 144\Projects\Project 2\DiverClass\DiverClass\obj\Debug\netcoreapp3.1\DiverClass.AssemblyInfoInputs.cache
+D:\CIS 144\Projects\Project 2\DiverClass\DiverClass\obj\Debug\netcoreapp3.1\DiverClass.AssemblyInfo.cs
+D:\CIS 144\Projects\Project 2\DiverClass\DiverClass\obj\Debug\netcoreapp3.1\DiverClass.dll
+D:\CIS 144\Projects\Project 2\DiverClass\DiverClass\obj\Debug\netcoreapp3.1\DiverClass.pdb
+D:\CIS 144\Projects\Project 2\DiverClass\DiverClass\obj\Debug\netcoreapp3.1\DiverClass.genruntimeconfig.cache
